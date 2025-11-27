@@ -2,5 +2,9 @@ public static void main(string args[] aditya kasaundhan)aditya
 kasaundhan
 okbosis
 this is from github remote
+<<<<<<< HEAD
 aditya
 `
+=======
+this is aditya
+>>>>>>> 82496e3d816b06a3a951ab51330634fc3b0e898e
